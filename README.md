@@ -1,5 +1,2 @@
-Repository containing all the projects written in assembly risc-V
-
-
-
+Calculator written in Risc-V Assembly. 
 
